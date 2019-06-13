@@ -1,4 +1,2 @@
-# python_spider
-My practice of python_crawler
-
-and sometimes I also commit little demos.
+# python_workhouse
+My practice of python.
